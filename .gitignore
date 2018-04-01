@@ -57,3 +57,10 @@ typings/
 # dotenv environment variables file
 .env
 
+#editor
+.idea
+
+#dist
+dist
+package-lock.json
+
